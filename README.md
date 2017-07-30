@@ -1,3 +1,6 @@
+# Project Title
+
+This javascript starter kit is unfinished!  
 
 ## Authors
 
